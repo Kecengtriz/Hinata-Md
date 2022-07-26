@@ -32,7 +32,7 @@ global.mess = {
     wait: 'Loading...'
 }
 global.thumb = fs.readFileSync('./image/hinata.jpg')
-global.vn = './sound/menu.mp3'
+global.vn = './image/menu.mp3'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
