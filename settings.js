@@ -4,6 +4,8 @@ const chalk = require('chalk')
 // Free Apikey
 global.APIs = {
 	riy: 'https://api-xriy04.herokuapp.com',
+       apiapa: 'https://apaapi.herokuapp.com/api', 
+
 }
 
 // Other
